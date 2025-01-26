@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/1c9b495545ed47b69408d50665722453/artifacts
+end_time: 1737918898313
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 1c9b495545ed47b69408d50665722453
+run_name: calm-mink-98
+run_uuid: 1c9b495545ed47b69408d50665722453
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918895628
+status: 3
+tags: []
+user_id: karth

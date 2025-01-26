@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/5c1926a520bd42e0afbbede613d8a791/artifacts
+end_time: 1737918508682
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: 5c1926a520bd42e0afbbede613d8a791
+run_name: gifted-lark-153
+run_uuid: 5c1926a520bd42e0afbbede613d8a791
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918504893
+status: 3
+tags: []
+user_id: karth

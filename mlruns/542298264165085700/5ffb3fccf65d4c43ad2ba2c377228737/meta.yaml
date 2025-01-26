@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/5ffb3fccf65d4c43ad2ba2c377228737/artifacts
+end_time: 1737918511292
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: 5ffb3fccf65d4c43ad2ba2c377228737
+run_name: blushing-yak-951
+run_uuid: 5ffb3fccf65d4c43ad2ba2c377228737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918508690
+status: 3
+tags: []
+user_id: karth

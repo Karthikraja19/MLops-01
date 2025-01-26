@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/62218b64ee0f462badbd91c3647210af/artifacts
+end_time: 1737918514003
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 62218b64ee0f462badbd91c3647210af
+run_name: luminous-zebra-651
+run_uuid: 62218b64ee0f462badbd91c3647210af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918511298
+status: 3
+tags: []
+user_id: karth

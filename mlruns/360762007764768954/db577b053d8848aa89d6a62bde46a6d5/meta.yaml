@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/db577b053d8848aa89d6a62bde46a6d5/artifacts
+end_time: 1737918892923
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: db577b053d8848aa89d6a62bde46a6d5
+run_name: nosy-gnu-64
+run_uuid: db577b053d8848aa89d6a62bde46a6d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918889296
+status: 3
+tags: []
+user_id: karth

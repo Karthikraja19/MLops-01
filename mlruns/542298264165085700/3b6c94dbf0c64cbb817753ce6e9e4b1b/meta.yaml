@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/3b6c94dbf0c64cbb817753ce6e9e4b1b/artifacts
+end_time: 1737918895620
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: 3b6c94dbf0c64cbb817753ce6e9e4b1b
+run_name: resilient-cub-344
+run_uuid: 3b6c94dbf0c64cbb817753ce6e9e4b1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918892930
+status: 3
+tags: []
+user_id: karth

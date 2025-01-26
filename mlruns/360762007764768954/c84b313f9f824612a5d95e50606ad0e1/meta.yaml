@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/c84b313f9f824612a5d95e50606ad0e1/artifacts
+end_time: 1737918976484
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: c84b313f9f824612a5d95e50606ad0e1
+run_name: unleashed-dove-864
+run_uuid: c84b313f9f824612a5d95e50606ad0e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737918973001
+status: 3
+tags: []
+user_id: karth
