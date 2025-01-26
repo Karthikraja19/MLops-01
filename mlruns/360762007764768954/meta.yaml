@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954
+creation_time: 1737912284385
+experiment_id: '360762007764768954'
+last_update_time: 1737912284385
+lifecycle_stage: active
+name: housing-experiment-Random forest

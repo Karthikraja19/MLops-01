@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/e0299c4360b94827801c25e8850accd0/artifacts
+end_time: 1737912291607
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: e0299c4360b94827801c25e8850accd0
+run_name: bright-wren-18
+run_uuid: e0299c4360b94827801c25e8850accd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737912289123
+status: 3
+tags: []
+user_id: karth

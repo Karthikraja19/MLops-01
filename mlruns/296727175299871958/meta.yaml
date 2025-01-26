@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958
+creation_time: 1737912291618
+experiment_id: '296727175299871958'
+last_update_time: 1737912291618
+lifecycle_stage: active
+name: housing-experiment - SVM

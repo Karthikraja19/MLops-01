@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/4f6e3a81ebea4c63baec693919405bfa/artifacts
+end_time: 1737912294136
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 4f6e3a81ebea4c63baec693919405bfa
+run_name: dapper-dog-91
+run_uuid: 4f6e3a81ebea4c63baec693919405bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737912291623
+status: 3
+tags: []
+user_id: karth

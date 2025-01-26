@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/e0c118fce94e40e5900b72b74bbe9772/artifacts
+end_time: 1737912289118
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: e0c118fce94e40e5900b72b74bbe9772
+run_name: nervous-trout-563
+run_uuid: e0c118fce94e40e5900b72b74bbe9772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737912285171
+status: 3
+tags: []
+user_id: karth
