@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/e79b2e60a85446008ec19d43f6a660f5/artifacts
+end_time: 1737919879926
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: e79b2e60a85446008ec19d43f6a660f5
+run_name: omniscient-goose-666
+run_uuid: e79b2e60a85446008ec19d43f6a660f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919876344
+status: 3
+tags: []
+user_id: karth

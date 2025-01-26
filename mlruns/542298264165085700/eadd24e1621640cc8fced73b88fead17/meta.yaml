@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/eadd24e1621640cc8fced73b88fead17/artifacts
+end_time: 1737919876333
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: eadd24e1621640cc8fced73b88fead17
+run_name: zealous-stoat-731
+run_uuid: eadd24e1621640cc8fced73b88fead17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919873561
+status: 3
+tags: []
+user_id: karth

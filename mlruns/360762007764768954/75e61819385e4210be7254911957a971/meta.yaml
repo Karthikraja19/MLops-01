@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/75e61819385e4210be7254911957a971/artifacts
+end_time: 1737920473897
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: 75e61819385e4210be7254911957a971
+run_name: wistful-fish-322
+run_uuid: 75e61819385e4210be7254911957a971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737920470240
+status: 3
+tags: []
+user_id: karth

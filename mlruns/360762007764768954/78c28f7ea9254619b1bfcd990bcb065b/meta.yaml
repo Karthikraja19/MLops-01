@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/78c28f7ea9254619b1bfcd990bcb065b/artifacts
+end_time: 1737919873553
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: 78c28f7ea9254619b1bfcd990bcb065b
+run_name: resilient-newt-897
+run_uuid: 78c28f7ea9254619b1bfcd990bcb065b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737919869686
+status: 3
+tags: []
+user_id: karth

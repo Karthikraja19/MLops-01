@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/b80b685cab37460d98db6c9321675de3/artifacts
+end_time: 1737920479419
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: b80b685cab37460d98db6c9321675de3
+run_name: casual-elk-864
+run_uuid: b80b685cab37460d98db6c9321675de3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737920476677
+status: 3
+tags: []
+user_id: karth
