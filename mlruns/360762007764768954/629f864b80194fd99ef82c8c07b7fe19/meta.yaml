@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/629f864b80194fd99ef82c8c07b7fe19/artifacts
+end_time: 1737916744333
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: 629f864b80194fd99ef82c8c07b7fe19
+run_name: serious-conch-166
+run_uuid: 629f864b80194fd99ef82c8c07b7fe19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737916740916
+status: 3
+tags: []
+user_id: karth

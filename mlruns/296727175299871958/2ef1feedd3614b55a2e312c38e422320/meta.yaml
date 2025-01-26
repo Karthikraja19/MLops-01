@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/2ef1feedd3614b55a2e312c38e422320/artifacts
+end_time: 1737916749523
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 2ef1feedd3614b55a2e312c38e422320
+run_name: luxuriant-rat-594
+run_uuid: 2ef1feedd3614b55a2e312c38e422320
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737916746943
+status: 3
+tags: []
+user_id: karth

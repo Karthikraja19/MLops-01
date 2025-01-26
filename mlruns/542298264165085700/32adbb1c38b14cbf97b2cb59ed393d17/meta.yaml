@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/32adbb1c38b14cbf97b2cb59ed393d17/artifacts
+end_time: 1737916348730
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: 32adbb1c38b14cbf97b2cb59ed393d17
+run_name: tasteful-mare-429
+run_uuid: 32adbb1c38b14cbf97b2cb59ed393d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737916346128
+status: 3
+tags: []
+user_id: karth

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/dd2f124e5f364e569d933c2a82709ee5/artifacts
+end_time: 1737916351277
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: dd2f124e5f364e569d933c2a82709ee5
+run_name: gentle-hog-878
+run_uuid: dd2f124e5f364e569d933c2a82709ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737916348737
+status: 3
+tags: []
+user_id: karth

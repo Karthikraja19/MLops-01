@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/f5e5fa29ad2145599f0e56aed6b5ea13/artifacts
+end_time: 1737916346121
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: f5e5fa29ad2145599f0e56aed6b5ea13
+run_name: handsome-stag-685
+run_uuid: f5e5fa29ad2145599f0e56aed6b5ea13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737916342714
+status: 3
+tags: []
+user_id: karth
