@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/badef57a090d4173b2c00e165be15b20/artifacts
+end_time: 1737914788498
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: badef57a090d4173b2c00e165be15b20
+run_name: righteous-carp-406
+run_uuid: badef57a090d4173b2c00e165be15b20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914785948
+status: 3
+tags: []
+user_id: karth

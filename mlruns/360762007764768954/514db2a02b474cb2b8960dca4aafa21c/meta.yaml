@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/360762007764768954/514db2a02b474cb2b8960dca4aafa21c/artifacts
+end_time: 1737914652709
+entry_point_name: ''
+experiment_id: '360762007764768954'
+lifecycle_stage: active
+run_id: 514db2a02b474cb2b8960dca4aafa21c
+run_name: upset-pig-278
+run_uuid: 514db2a02b474cb2b8960dca4aafa21c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914649292
+status: 3
+tags: []
+user_id: karth

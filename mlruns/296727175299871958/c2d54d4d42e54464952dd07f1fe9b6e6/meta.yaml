@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/c2d54d4d42e54464952dd07f1fe9b6e6/artifacts
+end_time: 1737914657898
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: c2d54d4d42e54464952dd07f1fe9b6e6
+run_name: delightful-snipe-247
+run_uuid: c2d54d4d42e54464952dd07f1fe9b6e6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914655310
+status: 3
+tags: []
+user_id: karth

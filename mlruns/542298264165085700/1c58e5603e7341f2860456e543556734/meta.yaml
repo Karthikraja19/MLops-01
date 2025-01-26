@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/542298264165085700/1c58e5603e7341f2860456e543556734/artifacts
+end_time: 1737914558098
+entry_point_name: ''
+experiment_id: '542298264165085700'
+lifecycle_stage: active
+run_id: 1c58e5603e7341f2860456e543556734
+run_name: fun-finch-962
+run_uuid: 1c58e5603e7341f2860456e543556734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914555517
+status: 3
+tags: []
+user_id: karth

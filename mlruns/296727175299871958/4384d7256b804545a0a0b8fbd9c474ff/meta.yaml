@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/4384d7256b804545a0a0b8fbd9c474ff/artifacts
+end_time: 1737914560696
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 4384d7256b804545a0a0b8fbd9c474ff
+run_name: persistent-auk-974
+run_uuid: 4384d7256b804545a0a0b8fbd9c474ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914558098
+status: 3
+tags: []
+user_id: karth

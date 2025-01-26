@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/karth/Downloads/Mlops-testing/MLops-01/mlruns/296727175299871958/1d2c847dc9094006afa1ece31c1e825a/artifacts
+end_time: 1737914791041
+entry_point_name: ''
+experiment_id: '296727175299871958'
+lifecycle_stage: active
+run_id: 1d2c847dc9094006afa1ece31c1e825a
+run_name: clean-moose-825
+run_uuid: 1d2c847dc9094006afa1ece31c1e825a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737914788498
+status: 3
+tags: []
+user_id: karth
